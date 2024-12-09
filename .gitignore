@@ -30,15 +30,10 @@ _ReSharper*/
 packages/
 
 # 忽略編譯和配置文件
-*.csproj.user
-*.csproj.*.user
-*.config
 *.json.swp
 
 # 忽略 Rider 和 JetBrains IDE 文件
 .idea/
-*.sln.iml
-*.sln.cache
 
 # 忽略 Secret 文件
 #appsettings.json
