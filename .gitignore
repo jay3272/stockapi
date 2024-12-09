@@ -41,9 +41,9 @@ packages/
 *.sln.cache
 
 # 忽略 Secret 文件
-appsettings.json
-appsettings.Development.json
-appsettings.Production.json
+#appsettings.json
+#appsettings.Development.json
+#appsettings.Production.json
 
 # 忽略 Mac 和 Windows 系統文件
 .DS_Store
