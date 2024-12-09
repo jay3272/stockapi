@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "qaoCT+sYBdzSsWHEqVCrcMjA9IfZuU2SPKkHGOk/duo=",
+  "Source": "stockapi",
+  "BasePath": "_content/stockapi",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

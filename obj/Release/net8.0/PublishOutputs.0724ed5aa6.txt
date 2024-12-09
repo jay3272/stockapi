@@ -1,0 +1,13 @@
+C:\Users\Jay_Wu\Documents\GitHub\stockapi\publish\stockapi.exe
+C:\Users\Jay_Wu\Documents\GitHub\stockapi\publish\appsettings.Development.json
+C:\Users\Jay_Wu\Documents\GitHub\stockapi\publish\appsettings.json
+C:\Users\Jay_Wu\Documents\GitHub\stockapi\publish\stockapi.dll
+C:\Users\Jay_Wu\Documents\GitHub\stockapi\publish\stockapi.deps.json
+C:\Users\Jay_Wu\Documents\GitHub\stockapi\publish\stockapi.runtimeconfig.json
+C:\Users\Jay_Wu\Documents\GitHub\stockapi\publish\stockapi.pdb
+C:\Users\Jay_Wu\Documents\GitHub\stockapi\publish\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Jay_Wu\Documents\GitHub\stockapi\publish\Microsoft.OpenApi.dll
+C:\Users\Jay_Wu\Documents\GitHub\stockapi\publish\Newtonsoft.Json.dll
+C:\Users\Jay_Wu\Documents\GitHub\stockapi\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Jay_Wu\Documents\GitHub\stockapi\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Jay_Wu\Documents\GitHub\stockapi\publish\Swashbuckle.AspNetCore.SwaggerUI.dll

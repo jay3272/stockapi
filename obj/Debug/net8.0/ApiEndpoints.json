@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "StockApi.Controllers.StockController",
+    "Method": "GetStockData",
+    "RelativePath": "api/stock",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
